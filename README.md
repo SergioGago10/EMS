@@ -1,3 +1,4 @@
+[![Build and test of Java Project](https://github.com/SergioGago10/EMS/actions/workflows/main.yml/badge.svg)](https://github.com/SergioGago10/EMS/actions/workflows/main.yml)
 # Pipeline-jenkins-java
 
 Repositorio para el laboratorio de CI con Jenkins
